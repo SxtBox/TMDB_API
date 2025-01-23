@@ -1,2 +1,3 @@
-# TMDB_API
+# TMDB API
 JSON API TO GET DATA FROM themoviedb.org
+# SET YOUR API KEY AT /TMDB_API/TMDB_API.php in line 77
